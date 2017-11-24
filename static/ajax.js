@@ -1,3 +1,6 @@
+//James Kinsella - G00282261@gmit.ie
+//November 2017
+
 const form = $("#input-e");
 const list = $("#list");
 
